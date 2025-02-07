@@ -13,7 +13,7 @@ delta_ra = 4     # Width of attraction zone
 
 num_part = 60     # Number of agents
 num_iter = 1000   # Number of time steps
-alpha = 270       # visoin angle
+alpha = 270       # vision angle
 sigma = 0.1       # Width of noise
 
 p=2
